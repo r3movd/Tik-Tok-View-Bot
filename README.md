@@ -21,6 +21,13 @@
 </div>
   
 ---------------------------------------
+Install:
+
+-Download Release
+
+-Unzip file
+
+-enjoy
 
 ### Features
 * HTTP/SOCKS4/SOCKS5 Proxy Support
