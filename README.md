@@ -18,7 +18,7 @@
   <h2 align="center">TikTok View Bot</h3>
 
   <p align="center">
-    Accurate but fails a lot.
+   Dont fortget to unzip
     <br />
     <br />
     <a href="https://github.com/dropout1337/Omegle-Traffic-Bot/issues">Report Bug</a>
