@@ -35,6 +35,3 @@
 
 ---------------------------------------
 
-### Contact
-[Telegram](https://t.me/dropoutuwu)
-[Discord](https://discord.com/users/893490559874895872)
